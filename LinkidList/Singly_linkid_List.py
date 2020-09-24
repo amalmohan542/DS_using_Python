@@ -12,7 +12,7 @@ class LinkidList:   #Class for LinkedLIst to br created to hold the entore set o
             temp=temp.next
 
 if __name__ == "__main__":
-    llist=LinkidList();
+    llist=LinkidList()
     llist.head=Node(1)#Created Node1 with head pointer
     second=Node(2) #Created 2nd node with with value 2
     third=Node(3) #Created 3rd node with with value 3
